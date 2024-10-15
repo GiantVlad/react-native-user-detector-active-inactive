@@ -12,5 +12,3 @@
 config.gypi
 CVS
 npm-debug.log
-
-/src/index.js

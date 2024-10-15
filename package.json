@@ -35,5 +35,8 @@
     "url": "https://github.com/huzaifahazelGit/react-native-user-detector-active-inactive/issues"
   },
   "author": "Muhammad Huzaifa junaid (https://github.com/huzaifahazelGit)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-native-background-timer": "^2.4.1"
+  }
 }
